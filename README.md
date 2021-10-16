@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eli-front
 - 👀 I’m interested in Flutter, Django, and much more
-- 🌱 I’m currently learning React Native & Realm
-- 💞️ I’m looking to collaborate on... we'll see
-- 📫 Reach me: elifront23@gmail.com
+- 🌱 I’m currently learning Realm & Hardware
+- 📫 Reach me: elifront2@gmail.com
 
 I can squash any bug.
