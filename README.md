@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Realm & Hardware
 - 📫 Reach me: elifront2@gmail.com
 
-I can squash any bug.
+Goal in life: Hit 100000 on StackOverflow
