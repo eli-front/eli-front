@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eli-front
 - 👨‍💻 Check out my site [elifront.com](https://elifront.com)
 - 👀 I’m interested in Next.js, Flutter, Product and much more
-- 🌱 I’m currently learning Go & IPFS
+- 🌱 I’m currently learning Rust, Go, and IPFS
 - 📫 Reach me: elifront2@gmail.com
